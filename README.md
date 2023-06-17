@@ -1,5 +1,3 @@
-## 💫 About Me:
-
 👋 Hi, I'm Mohammed Hasan, a dedicated software tester with a passion for delivering top-notch quality solutions. 🚀
 
 💡 With a strong background in manual and automated testing, I thrive on uncovering defects, ensuring software reliability, and enhancing user experiences. I specialize in using industry-standard tools like Selenium and Cypress to develop robust test frameworks and execute comprehensive test suites.
