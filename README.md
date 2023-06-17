@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohammed Hasan, a dedicated software tester with a passion for delivering top-notch quality solutions. 🚀
+👋 Hi, I'm Mohammed Hasan 🚀 a dedicated software tester with a passion for delivering top-notch quality solutions.
 
 💡 With a strong background in manual and automated testing, I thrive on uncovering defects, ensuring software reliability, and enhancing user experiences. I specialize in using industry-standard tools like Selenium and Cypress to develop robust test frameworks and execute comprehensive test suites.
 
@@ -12,10 +12,8 @@
 
 🎗️ You can reach me via email at hasanazeerkhan@gmail.com or by phone at `+91 9942094061` or through [LinkedIn Profile](https://www.linkedin.com/in/hasanazeerkhan/) for some more discussion
 
-## 📢Usage
+📢Feel free to explore the various sections, review my testing projects, and download my resume to gain insights into my skills and experience.
 
-Feel free to explore the various sections, review my testing projects, and download my resume to gain insights into my skills and experience.
+🙇‍♂️Thank you for visiting my repository. I hope you find it informative and engaging. If you have any feedback or inquiries, please don't hesitate to reach out.
 
-Thank you for visiting my repository. I hope you find it informative and engaging. If you have any feedback or inquiries, please don't hesitate to reach out.
-
-Happy exploring and testing!
+💪 Happy exploring and testing!
