@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hasan</h1>
-<h3 align="center">A passionate software test engineer from India</h3>
+<h3 align="center">A passionate Software Test Engineer from India who has an ISTQB certification</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanazeerkhan&label=Profile%20views&color=0e75b6&style=flat" alt="hasanazeerkhan" /> </p>
 
