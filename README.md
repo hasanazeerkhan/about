@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Playwright**
 
-- 👯 I’m looking to collaborate on **Cypress, Selenium**
+- 👯 I’m looking to collaborate on **Cypress, Selenium and Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasanazeerkhan](https://github.com/hasanazeerkhan)
 
-- 💬 Ask me about **Selenium, Cypress and ISTQB**
+- 💬 Ask me about **Selenium, Cypress, Playwright and ISTQB**
 
 - 📫 How to reach me **hasanazeerkhan@gmail.com**
 
-- ⚡ Fun fact **I talk about cricket for hours**
+- ⚡ Fun fact **I can talk about cricket for hours, or you can share me what book you are currently reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
